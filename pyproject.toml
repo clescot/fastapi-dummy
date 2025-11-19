@@ -1,0 +1,7 @@
+[project]
+name = "fastapi-dummy"
+version = "0.1.0"
+description = "a dummy fastapi web service"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
